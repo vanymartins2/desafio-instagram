@@ -1,2 +1,3 @@
-# desafio-instagram
-Desafio de código utilizando Flexbox
+## Desafio Instagram DIO
+
+- Desafio de código utilizando Flexbox.
